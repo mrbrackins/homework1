@@ -38,7 +38,7 @@ class Home extends StatelessWidget {
   'Teenager 15': '17 '
   
 };
-      List<String> litems = ["1","2","Third","4"];
+      
     return Scaffold(
         appBar: AppBar(
           title: Text("Page 1"),
